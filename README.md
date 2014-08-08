@@ -1,5 +1,7 @@
 # Homebrew-rdotm
 
+[![Build Status](https://travis-ci.org/ksoichiro/homebrew-rdotm.svg)](https://travis-ci.org/ksoichiro/homebrew-rdotm)
+
 A Homebrew formula for [ksoichiro/rdotm](https://github.com/ksoichiro/rdotm).
 
 ## Install
